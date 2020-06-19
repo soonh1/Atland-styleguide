@@ -115,8 +115,6 @@
 | ![](https://raw.githubusercontent.com/soonh1/Atlando-styleguide/master/Image/pic1.PNG) |
 | ![](https://raw.githubusercontent.com/soonh1/Atlando-styleguide/master/Image/pic2.PNG) |
 
-# Opbygning
-
 # Sociale medier
 
 ### Retningslinjer
