@@ -1,8 +1,3 @@
----
-title: "Atlando - Style guide"
-tags: ""
----
-
 # Atlando - Style guide
 
 > Denne Style guide kan bruges som vejledning for vedligeholdelse og udvidelse af Atlando esports hjemmeside. 
