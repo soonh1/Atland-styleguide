@@ -108,7 +108,7 @@
 
 ### Tekst på billeder
 
-> Så længe det er læseligt så er det helt i orden med tekst på billeder. Der er to tilgang til placering af tekst på billeder, 1 hvor billedet allerede er sort & hvis eller 2 billedet skal have et overlay så teksten er mere læseligt. 
+> Så længe det er læseligt så er det helt i orden med tekst på billeder. Der er to tilgang til placering af tekst på billeder, 1 hvor billedet allerede er sort & hvidt eller 2 billedet skal have et overlay så teksten er mere læseligt. 
 
 | ![](https://raw.githubusercontent.com/soonh1/Atlando-styleguide/master/Image/pic4.PNG) |
 | -------------------------------------------------------------------------------------- |
